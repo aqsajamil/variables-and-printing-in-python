@@ -27,6 +27,16 @@ print("my age is %d:" % my_age)
 
 print("if I add %s and %d I get it" % (my_name,my_age))
 
+# more variables
+pound = 1
+dollar = 1.30
+requred_pound_conversion = 10
+conversion_of_pound_in_dollars = dollar * requred_pound_conversion
+
+print(" if %r " % conversion_of_pound_in_dollars)
+
+
+
 
 
 
